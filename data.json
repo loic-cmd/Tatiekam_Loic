@@ -1,0 +1,43 @@
+{
+    "users": [
+        {
+            "username": "Admin1",
+            "password": "simplepassword",
+            "role": "admin"
+        },
+        {
+            "username": "student1",
+            "password": "simplepass123",
+            "role": "student"
+        },
+        {
+            "username": "tatiekam",
+            "password": "codex709",
+            "role": "student"
+        },
+        {
+            "username": "& C:/Users/TK_Loic/AppData/Local/Programs/Python/Python314/python.exe c:/Users/TK_Loic/Desktop/course_registration_system/main.py",
+            "password": "2",
+            "role": "student"
+        },
+        {
+            "username": "tk",
+            "password": "1234",
+            "role": "admin"
+        }
+    ],
+    "courses": [
+        {
+            "code": "CSC101",
+            "title": "Principles of computer programming",
+            "capacity": 3,
+            "students": []
+        },
+        {
+            "code": "12",
+            "title": "math",
+            "capacity": 1000,
+            "students": []
+        }
+    ]
+}
