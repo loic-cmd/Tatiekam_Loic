@@ -24,6 +24,16 @@
             "username": "tk",
             "password": "1234",
             "role": "admin"
+        },
+        {
+            "username": "johnrumide",
+            "password": "password123",
+            "role": "student"
+        },
+        {
+            "username": "johnadmin",
+            "password": "password123",
+            "role": "admin"
         }
     ],
     "courses": [
@@ -37,6 +47,12 @@
             "code": "12",
             "title": "math",
             "capacity": 1000,
+            "students": []
+        },
+        {
+            "code": "CSC202",
+            "title": "Introduction to Data structures and algorithm",
+            "capacity": 5,
             "students": []
         }
     ]
